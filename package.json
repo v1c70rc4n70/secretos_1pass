@@ -9,6 +9,6 @@
   },
   "main": "desktop-main.cjs",
   "devDependencies": {
-    "electron": "^38.1.0"
+    "electron": "^39.8.10"
   }
 }
