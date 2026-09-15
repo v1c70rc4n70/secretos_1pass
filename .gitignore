@@ -1,0 +1,21 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+dist/
+build/
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+
+# Local vaults and exported sensitive data
+*-vault.json
+*.csv
+*.sqlite
+*.db
+*.pem
+*.key

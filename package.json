@@ -1,0 +1,14 @@
+{
+  "name": "v4lt3s",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MVP local de gestión segura de secretos integrado conceptualmente con 1Password",
+  "scripts": {
+    "start": "python3 -m http.server 4174",
+    "desktop": "electron ."
+  },
+  "main": "desktop-main.cjs",
+  "devDependencies": {
+    "electron": "^38.1.0"
+  }
+}
